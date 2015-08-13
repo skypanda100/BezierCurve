@@ -1,3 +1,3 @@
 ### **成果物**
 
-![](https://github.com/skypanda100/CurlRollAway/blob/master/wiki/result.gif)
+![](https://github.com/skypanda100/BezierCurve/blob/master/wiki/result.gif)
